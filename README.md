@@ -1,2 +1,2 @@
 # akward-fonts
-1.BLOCKKRegular.woff
+1.BLOKKRegular.woff
